@@ -117,7 +117,7 @@ cake.register(this);
 **IMPORTANT: Remember to change the SlimefunItemStack to be a cake, otherwise you won't be able to eat it.**
 
 ## 3. Adding an Item Handler (BlockUseHandler)
-Now that we swapped our the class, the addon should still work as expected. However nothing has changed.<br>
+Now that we swapped out the class, the addon should still work as expected. However nothing has changed.<br>
 All we have done so far is basically add a new class which acts exactly like a SlimefunItem.<br>
 We need to add actual features to the class now.
 
